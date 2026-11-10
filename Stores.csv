@@ -1,0 +1,13 @@
+StoreID,Store Name,City,Region,Store Type,Opening Year,Seating Capacity
+S01,Indiranagar High St,Bengaluru,South,High Street,2018,60
+S02,Whitefield Tech Park,Bengaluru,South,Tech Park,2020,80
+S03,Kempegowda Airport T2,Bengaluru,South,Airport,2023,40
+S04,Bandra Linking Rd,Mumbai,West,High Street,2017,55
+S05,Phoenix Palladium,Mumbai,West,Mall Kiosk,2019,20
+S06,Hinjewadi Phase 1,Pune,West,Tech Park,2021,70
+S07,Connaught Place,Delhi,North,High Street,2016,65
+S08,Cyber Hub,Gurugram,North,Tech Park,2019,75
+S09,IGI Airport T3,Delhi,North,Airport,2022,45
+S10,Express Avenue,Chennai,South,Mall Kiosk,2020,25
+S11,HITEC City,Hyderabad,South,Tech Park,2021,70
+S12,Park Street,Kolkata,East,High Street,2022,50

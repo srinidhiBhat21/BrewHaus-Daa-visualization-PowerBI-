@@ -1,0 +1,25 @@
+ProductID,Product,Category,List Price,Unit Cost
+P01,Espresso,Hot Coffee,140,38
+P02,Cappuccino,Hot Coffee,210,58
+P03,Cafe Latte,Hot Coffee,230,64
+P04,Flat White,Hot Coffee,240,66
+P05,Filter Kaapi,Hot Coffee,150,35
+P06,Mocha,Hot Coffee,260,78
+P07,Classic Cold Brew,Cold Coffee,250,60
+P08,Iced Americano,Cold Coffee,220,52
+P09,Hazelnut Frappe,Cold Coffee,290,90
+P10,Vietnamese Iced Coffee,Cold Coffee,270,74
+P11,Masala Chai,Tea,130,28
+P12,Matcha Latte,Tea,280,96
+P13,Iced Peach Tea,Tea,200,44
+P14,Butter Croissant,Bakery,160,55
+P15,Blueberry Muffin,Bakery,170,58
+P16,Banana Bread,Bakery,150,46
+P17,Chocolate Brownie,Bakery,180,52
+P18,Paneer Tikka Sandwich,Sandwiches,290,105
+P19,Chicken Pesto Panini,Sandwiches,340,130
+P20,Veg Club Sandwich,Sandwiches,260,92
+P21,Avocado Toast,Sandwiches,360,145
+P22,House Blend Beans 250g,Merchandise,650,290
+P23,Ceramic Mug,Merchandise,550,210
+P24,Cold Brew Bottle 1L,Merchandise,480,170
